@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UIControlEjemplo</string>
+    <string name="button_text">Insert Text</string>
+    <string name="texto_1">Text will change</string>
+    <string name="texto_2">Hello</string>
+    <string name="texto_3">Welcome</string>
+</resources>
