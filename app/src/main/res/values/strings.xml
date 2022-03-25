@@ -4,4 +4,8 @@
     <string name="texto_1">Text will change</string>
     <string name="texto_2">Hello</string>
     <string name="texto_3">Welcome</string>
+    <string name="texto_checkbox">Change color</string>
+    <string name="text_switch">Change font size</string>
+    <string name="text_radio_button_1">Enable switch</string>
+    <string name="text_radio_button_2">Disable Switch</string>
 </resources>

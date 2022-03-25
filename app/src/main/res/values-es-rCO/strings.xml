@@ -5,4 +5,8 @@
     <string name="texto_1">Texto que va a cambiar</string>
     <string name="texto_2">Hola</string>
     <string name="texto_3">Bienvenido</string>
+    <string name="texto_checkbox">Cambiar de color</string>
+    <string name="text_switch">Cambiar tamaño de letra</string>
+    <string name="text_radio_button_1">Habilitar cambiar tamaño</string>
+    <string name="text_radio_button_2">Deshabilitar cambiar tamaño</string>
 </resources>
